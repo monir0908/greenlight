@@ -36,7 +36,7 @@ en:
         enabled: Enabled
         info: Only allow authenticated users to join a room
         title: Require Authentication for Rooms
-        user-info: You must sign in to Greenlight to join this room
+        user-info: You must sign in to to join this room
       branding:
         change: Change Image
         info: Change the branding image that appears in the top left corner
@@ -83,7 +83,7 @@ en:
       shared_access:
         info: Setting to disabled will remove the button from the Room options dropdown, preventing users from sharing rooms
         title: Allow Users to Share Rooms
-      subtitle: Customize Greenlight
+      subtitle: Customize 
       title: Site Settings
     flash:
       approved: User has been successfully approved.
@@ -246,7 +246,7 @@ en:
     designs: Custom Designs
     authentication: User Authentication
   footer:
-    powered_by: Powered by %{href}.
+    powered_by: Powered by bacbon.
   forgot_password:
     subtitle: Forgot Password
     email: Email
@@ -277,10 +277,10 @@ en:
       start: Start searching...
   landing:
     about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BacBon Ltd.
-    video: Watch our tutorial on using Greenlight
+    welcome: Welcome to BacBon Live Classes / Meetings.
+    # video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
-    version: We've released a new version of Greenlight, but your database isn't compatible.
+    # version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
   ldap_error: Unable to connect to the LDAP server. Please check your LDAP configuration in the env file and ensure your server is running.
   login: Sign in
@@ -292,10 +292,10 @@ en:
         signin: To access your personal rooms, click the button below and sign in.
         signin_link: Sign In
         signup:
-          info: A new user has signed up to use Greenlight.
-          more-info: To allow this user to access Greenlight you must approve their account in organization settings.
+          info: A new user has signed up to use.
+          more-info: To allow this user to access, you must approve their account in organization settings.
           admins_link: Visit the Organization Page
-          subject: New Greenlight User Sign Up
+          subject: New User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Account Approved
         username: Your username is %{email}.
@@ -309,9 +309,9 @@ en:
         signup_info: To signup using your email, click the button below and follow the steps.
         signup_link: Sign Up
         signup:
-          info: A user that was invited has signed up to use Greenlight.
+          info: A user that was invited has signed up.
           admins_link: Visit the Organization Page
-          subject: New Greenlight User Sign Up
+          subject: New User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Invitation to join BigBlueButton
         username: Your username is %{email}.
