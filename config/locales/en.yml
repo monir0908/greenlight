@@ -241,10 +241,10 @@ en:
   expired_reset_token: Password reset link has expired!
   features:
     title: Features
-    rooms: Personalized Rooms
+    rooms: Personalized Classroom
     recordings: Recording Management
-    designs: Custom Designs
-    authentication: User Authentication
+    designs: Live Whiteboard 
+    authentication: Screen Share
   footer:
     powered_by: Powered by bacbon ltd.
   forgot_password:
@@ -252,7 +252,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: BTutors Meeting
   header:
     all_recordings: All Recordings
     dropdown:
@@ -276,9 +276,9 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BacBon Live Classes / Meetings.
-    # video: Watch our tutorial on using Greenlight
+    about: "Bacbon Tutors platform is glad to introduce live class-sessions for tutors and students. A tutor can create their own classrooms to host live sessions, or ask their students using a short and convenient link."
+    welcome: Welcome to BacBon Tutors Live Classes.
+    video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     # version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
