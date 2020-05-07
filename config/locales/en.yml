@@ -265,7 +265,7 @@ en:
   info_update_success: Information successfully updated.
   invalid_credentials: The email and password you entered did not match our records. Try again or click Forgot Password to reset your password.
   invalid_login_method: Login failed due to account mismatch. You need to log in with omniauth.
-  invite_message: "To invite someone to the meeting, send them this link:"
+  invite_message: "To invite your students / classmates to the session, send them this link:"
   javascript:
     room:
       mailer:
